@@ -168,7 +168,7 @@ How Gantt Charts Assist in This Process:
 -Milestone Tracking: They highlight key project milestones, providing a clear overview of project progress.   
 -Communication Tool: Gantt charts serve as an effective communication tool for sharing project schedules and progress updates with stakeholders.   
 -Easy to Use: Many software programs make creating and maintaining Gantt charts very user friendly.   
--Identification of the critical path: Many Gantt chart programs will show the critical path of the project. This is the sequence of project network activities which determine the earliest possible completion of the project.   
+-Identification of the critical path: Many Gantt chart programs will show the critical path of the project. This is the sequence of project network activities which determine the earliest possible completion of the project.    
 
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 
